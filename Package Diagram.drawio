@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-08T11:32:30.362Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="B-fdaEVk4vLHhNtnGU_Q" version="12.6.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-08T11:34:53.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Kp4XGD1sBxw_yljkgnC7" version="12.6.6" type="github">
   <diagram id="Q4VnvSh6ajyP1y70Wybg" name="Page-1">
     <mxGraphModel dx="925" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="QWDj1nxfprRpqqSH3ZDR-1" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="200" width="700" height="780" as="geometry"/>
         </mxCell>
-        <mxCell id="QWDj1nxfprRpqqSH3ZDR-2" value="&lt;h1 style=&quot;font-size: 33px&quot;&gt;Diagramme de packages&lt;/h1&gt;&lt;p style=&quot;font-size: 17px&quot;&gt;Décompose les principaux fonctionnalité nécessaire pour chaque utilisateur de l&#39;application&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+        <mxCell id="QWDj1nxfprRpqqSH3ZDR-2" value="&lt;h1 style=&quot;font-size: 33px&quot;&gt;Diagramme de packages&lt;/h1&gt;&lt;p style=&quot;font-size: 17px&quot;&gt;Décompose les principaux fonctionnalités nécessaire pour chaque utilisateur de l&#39;application&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="190" y="40" width="410" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="QWDj1nxfprRpqqSH3ZDR-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -142,7 +142,7 @@
         <mxCell id="gy7lW3POpjNdomU-dFTI-15" value="Gestion administrative" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="335" y="810" width="150" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="gy7lW3POpjNdomU-dFTI-16" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="gy7lW3POpjNdomU-dFTI-16" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=47;entryPerimeter=0;" edge="1" parent="1" target="gy7lW3POpjNdomU-dFTI-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="870" as="sourcePoint"/>
             <mxPoint x="335" y="870" as="targetPoint"/>
