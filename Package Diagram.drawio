@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-09T10:41:30.465Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="PAcn90GD-z9LvlZZM0Ji" version="12.6.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-09T14:56:51.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="O1TLQqxsOpRWHuBejpZp" version="12.6.6" type="github">
   <diagram id="Q4VnvSh6ajyP1y70Wybg" name="Page-1">
     <mxGraphModel dx="1048" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
             <mxPoint x="664.1700000000001" y="290" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bGvTpOcmgWzEgEp-N8Zq-1" value="Gestion d&#39;achat" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="bGvTpOcmgWzEgEp-N8Zq-1" value="Gestion des achats" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="334.16" y="330" width="150" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="bGvTpOcmgWzEgEp-N8Zq-2" value="Gestion du production" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="bGvTpOcmgWzEgEp-N8Zq-3" value="Gestion de la livraison" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="337.35" y="570" width="150" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="bGvTpOcmgWzEgEp-N8Zq-4" value="Gestion du stock" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="bGvTpOcmgWzEgEp-N8Zq-4" value="Gestion des stocks" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="337.35" y="690" width="150" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="gy7lW3POpjNdomU-dFTI-1" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=30.5;entryPerimeter=0;" parent="1" source="QWDj1nxfprRpqqSH3ZDR-5" target="bGvTpOcmgWzEgEp-N8Zq-1" edge="1">
