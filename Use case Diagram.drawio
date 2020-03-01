@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-01T08:37:54.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="nrMMLy5x-4lLVbLDVFNE" version="12.7.9" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-03-01T08:56:50.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="9NY_eV7UoiEL8uUaDh9r" version="12.7.9" type="github" pages="5">
   <diagram id="Q4VnvSh6ajyP1y70Wybg" name="Gestion d&#39;achat">
     <mxGraphModel dx="715" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,9 +225,9 @@
         <mxCell id="d8JkluKaq2D7Z7kEgQlh-15" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="d8JkluKaq2D7Z7kEgQlh-1" vertex="1">
           <mxGeometry x="240" y="340" width="380" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="d8JkluKaq2D7Z7kEgQlh-16" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="d8JkluKaq2D7Z7kEgQlh-1" source="d8JkluKaq2D7Z7kEgQlh-6" target="d8JkluKaq2D7Z7kEgQlh-18" edge="1">
+        <mxCell id="d8JkluKaq2D7Z7kEgQlh-16" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="d8JkluKaq2D7Z7kEgQlh-1" target="d8JkluKaq2D7Z7kEgQlh-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="208" y="430" as="sourcePoint" />
+            <mxPoint x="150" y="408" as="sourcePoint" />
             <mxPoint x="108" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -307,12 +307,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="390" as="sourcePoint" />
             <mxPoint x="360" y="443.65" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_rNMYqc2Fy8UR1pKGEYP-0" value="&lt;span style=&quot;background-color: rgb(255 , 242 , 204)&quot;&gt;&amp;lt;&amp;lt; include &amp;gt;&amp;gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="d8JkluKaq2D7Z7kEgQlh-1" target="d8JkluKaq2D7Z7kEgQlh-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="496.3061531678062" y="440.0049402397255" as="sourcePoint" />
-            <mxPoint x="510.000378666589" y="700.1452480000424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
