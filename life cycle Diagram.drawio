@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-21T13:30:55.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="xUzg8NMN6LEqOonYLa3U" version="12.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-21T13:36:26.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="AeeV8gy_ZMmJRx1nP6-N" version="12.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="314" dy="205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -136,13 +136,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZtqvsGBUFGNdlKDPb9Z-32" value="Retrait au&lt;br&gt;comptoir" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="630" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DZtqvsGBUFGNdlKDPb9Z-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="DZtqvsGBUFGNdlKDPb9Z-32" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DZtqvsGBUFGNdlKDPb9Z-36">
+        <mxCell id="DZtqvsGBUFGNdlKDPb9Z-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="DZtqvsGBUFGNdlKDPb9Z-32" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DZtqvsGBUFGNdlKDPb9Z-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="1090" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="745" />
+              <mxPoint x="490" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZtqvsGBUFGNdlKDPb9Z-40" value="Sélectionner un&lt;br&gt;client" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DZtqvsGBUFGNdlKDPb9Z-41" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="DZtqvsGBUFGNdlKDPb9Z-40" parent="WIyWlLk6GJQsqaUBKTNV-1" target="DZtqvsGBUFGNdlKDPb9Z-44">
           <mxGeometry relative="1" as="geometry">
@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZtqvsGBUFGNdlKDPb9Z-44" value="Consulter la catalogue" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DZtqvsGBUFGNdlKDPb9Z-45" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DZtqvsGBUFGNdlKDPb9Z-44" target="DZtqvsGBUFGNdlKDPb9Z-46">
           <mxGeometry relative="1" as="geometry">
