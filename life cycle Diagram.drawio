@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-28T19:21:29.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="x46mXlA8KFHhSrJ9JU2X" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-28T19:31:50.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ecm2nZ1BQdsAWCkFGwa8" version="12.9.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1752" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,14 +200,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qeKKM6GIaMTyumXZyBNg-2" value="Choix du paiement?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="303.5" y="480" width="107" height="60" as="geometry" />
+        <mxCell id="qeKKM6GIaMTyumXZyBNg-2" value="Choix du &lt;br&gt;paiement?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="292" y="466" width="130.5" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="qeKKM6GIaMTyumXZyBNg-3" value="À réception (espèces)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="qeKKM6GIaMTyumXZyBNg-2" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qeKKM6GIaMTyumXZyBNg-5">
-          <mxGeometry x="-0.5238" y="10" relative="1" as="geometry">
+        <mxCell id="qeKKM6GIaMTyumXZyBNg-3" value="À réception (espèces)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="qeKKM6GIaMTyumXZyBNg-2" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qeKKM6GIaMTyumXZyBNg-5">
+          <mxGeometry x="-0.7052" y="8" relative="1" as="geometry">
             <mxPoint x="520" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="577" y="510" />
+              <mxPoint x="577" y="508" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
